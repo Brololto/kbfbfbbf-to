@@ -749,7 +749,7 @@ wait(2)
 firesignal(game:GetService("ReplicatedStorage").EntityInfo.Caption.OnClientEvent, 'Made by tinkgy#8163 (scripter Credits to (modeler figure#2824 Ping#1481 Anzor',true,1)
 
 spawn(function() -- E
-while wait(179) do
+while wait(198) do
 if workspace.Ambience_Seek.Playing == true then
 			continue
 		end
