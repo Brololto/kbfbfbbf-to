@@ -1774,7 +1774,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Creator.createEntity({
     CustomName = "Rebound", -- Custom name of your entity
     Model = "rbxassetid://12403052797", -- Can be GitHub file or rbxassetid
-    Speed = 170, -- Percentage, 100 = default Rush speed
+    Speed = 110, -- Percentage, 100 = default Rush speed
     DelayTime = 1.4, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
@@ -1917,7 +1917,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Creator.createEntity({
     CustomName = "Rebound", -- Custom name of your entity
     Model = "rbxassetid://12403052797", -- Can be GitHub file or rbxassetid
-    Speed = 170, -- Percentage, 100 = default Rush speed
+    Speed = 110, -- Percentage, 100 = default Rush speed
     DelayTime = 1.4, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
@@ -2060,7 +2060,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Creator.createEntity({
     CustomName = "Rebound", -- Custom name of your entity
     Model = "rbxassetid://12403052797", -- Can be GitHub file or rbxassetid
-    Speed = 170, -- Percentage, 100 = default Rush speed
+    Speed = 110, -- Percentage, 100 = default Rush speed
     DelayTime = 1.4, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
@@ -2203,7 +2203,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Creator.createEntity({
     CustomName = "Rebound", -- Custom name of your entity
     Model = "rbxassetid://12403052797", -- Can be GitHub file or rbxassetid
-    Speed = 170, -- Percentage, 100 = default Rush speed
+    Speed = 110, -- Percentage, 100 = default Rush speed
     DelayTime = 1.4, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
@@ -2346,7 +2346,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Creator.createEntity({
     CustomName = "Rebound", -- Custom name of your entity
     Model = "rbxassetid://12403052797", -- Can be GitHub file or rbxassetid
-    Speed = 170, -- Percentage, 100 = default Rush speed
+    Speed = 110, -- Percentage, 100 = default Rush speed
     DelayTime = 1.4, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
@@ -2489,7 +2489,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Creator.createEntity({
     CustomName = "Rebound", -- Custom name of your entity
     Model = "rbxassetid://12403052797", -- Can be GitHub file or rbxassetid
-    Speed = 170, -- Percentage, 100 = default Rush speed
+    Speed = 110, -- Percentage, 100 = default Rush speed
     DelayTime = 1.4, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
