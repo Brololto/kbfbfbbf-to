@@ -1675,7 +1675,7 @@ end)
 
 
 
-wait(264)
+wait(225)
 if workspace.Ambience_Seek.Playing == true then
 
 			continue
